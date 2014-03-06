@@ -4,7 +4,7 @@
   <title><![CDATA[Mr.sunmr's Blog]]></title>
   <link href="http://feelinfo.com//atom.xml" rel="self"/>
   <link href="http://feelinfo.com//"/>
-  <updated>2014-03-06T15:37:30+08:00</updated>
+  <updated>2014-03-06T15:40:46+08:00</updated>
   <id>http://feelinfo.com//</id>
   <author>
     <name><![CDATA[sunmr]]></name>
@@ -20,11 +20,11 @@
     <id>http://feelinfo.com//blog/2014/03/05/li-yong-octopresszai-githubshang-da-jian-bo-ke-ji-hou-xu-wen-ti-zong-hui</id>
     <content type="html"><![CDATA[<blockquote><p>用Octopress在GitHub上搭建博客已经不是什么新鲜事了，网上的教程也多了去了，大题的方法什么都差不多，这篇Blog就把这些资源总汇一下，然后再加几点我遇到的问题和解决办法。<!-- more --></p>
 
-<h1>搭建和配置</h1>
+<h4>搭建和配置</h4>
 
 <p>搭建跟配置可以参考官方文档，一步一步下去还是蛮简单的<a href="http://octopress.org/docs/">http://octopress.org/docs/</a>。</p>
 
-<h1>一些实用操作</h1>
+<h4>一些实用操作</h4>
 
 <ol>
 <li>Octopress 主页文章省略问题  <br/>
