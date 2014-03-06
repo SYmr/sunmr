@@ -4,7 +4,7 @@
   <title><![CDATA[Mr.sunmr's Blog]]></title>
   <link href="http://feelinfo.com//atom.xml" rel="self"/>
   <link href="http://feelinfo.com//"/>
-  <updated>2014-03-06T15:23:15+08:00</updated>
+  <updated>2014-03-06T15:30:08+08:00</updated>
   <id>http://feelinfo.com//</id>
   <author>
     <name><![CDATA[sunmr]]></name>
@@ -22,7 +22,15 @@
 
 <h1>搭建和配置</h1>
 
-<p>搭建跟配置可以参考官方文档，一步一步下去还是蛮简单的<a href="http://octopress.org/docs/">http://octopress.org/docs/</a>。</p></blockquote>
+<p>搭建跟配置可以参考官方文档，一步一步下去还是蛮简单的<a href="http://octopress.org/docs/">http://octopress.org/docs/</a>。</p>
+
+<h1>一些实用操作</h1>
+
+<ol>
+<li>Octopress 主页文章省略问题  <br/>
+在文章中间插入<!-- more -->，这样此标志后的文章就会在首页隐藏</li>
+</ol>
+</blockquote>
 ]]></content>
   </entry>
   
