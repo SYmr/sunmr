@@ -4,7 +4,7 @@
   <title><![CDATA[Mr.sunmr's Blog]]></title>
   <link href="http://feelinfo.com//atom.xml" rel="self"/>
   <link href="http://feelinfo.com//"/>
-  <updated>2014-03-06T15:17:36+08:00</updated>
+  <updated>2014-03-06T15:23:15+08:00</updated>
   <id>http://feelinfo.com//</id>
   <author>
     <name><![CDATA[sunmr]]></name>
@@ -18,7 +18,7 @@
     <link href="http://feelinfo.com//blog/2014/03/05/li-yong-octopresszai-githubshang-da-jian-bo-ke-ji-hou-xu-wen-ti-zong-hui/"/>
     <updated>2014-03-05T16:41:52+08:00</updated>
     <id>http://feelinfo.com//blog/2014/03/05/li-yong-octopresszai-githubshang-da-jian-bo-ke-ji-hou-xu-wen-ti-zong-hui</id>
-    <content type="html"><![CDATA[<blockquote><p>用Octopress在GitHub上搭建博客已经不是什么新鲜事了，网上的教程也多了去了，大题的方法什么都差不多，这篇Blog就把这些资源总汇一下，然后再加几点我遇到的问题和解决办法。</p>
+    <content type="html"><![CDATA[<blockquote><p>用Octopress在GitHub上搭建博客已经不是什么新鲜事了，网上的教程也多了去了，大题的方法什么都差不多，这篇Blog就把这些资源总汇一下，然后再加几点我遇到的问题和解决办法。<!-- more --></p>
 
 <h1>搭建和配置</h1>
 
