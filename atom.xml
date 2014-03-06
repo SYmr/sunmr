@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Mr.sunmr's Blog]]></title>
-  <link href="http://feelinfo.com/sunmr/atom.xml" rel="self"/>
-  <link href="http://feelinfo.com/sunmr/"/>
-  <updated>2014-03-06T10:49:12+08:00</updated>
-  <id>http://feelinfo.com/sunmr/</id>
+  <link href="http://feelinfo.com/atom.xml" rel="self"/>
+  <link href="http://feelinfo.com/"/>
+  <updated>2014-03-06T10:52:18+08:00</updated>
+  <id>http://feelinfo.com/</id>
   <author>
     <name><![CDATA[sunmr]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[利用Octopress在Github上搭建博客及后续问题总汇]]></title>
-    <link href="http://feelinfo.com/sunmr/blog/2014/03/05/li-yong-octopresszai-githubshang-da-jian-bo-ke-ji-hou-xu-wen-ti-zong-hui/"/>
+    <link href="http://feelinfo.com/blog/2014/03/05/li-yong-octopresszai-githubshang-da-jian-bo-ke-ji-hou-xu-wen-ti-zong-hui/"/>
     <updated>2014-03-05T16:41:52+08:00</updated>
-    <id>http://feelinfo.com/sunmr/blog/2014/03/05/li-yong-octopresszai-githubshang-da-jian-bo-ke-ji-hou-xu-wen-ti-zong-hui</id>
+    <id>http://feelinfo.com/blog/2014/03/05/li-yong-octopresszai-githubshang-da-jian-bo-ke-ji-hou-xu-wen-ti-zong-hui</id>
     <content type="html"><![CDATA[<p>my first archive</p>
 ]]></content>
   </entry>
